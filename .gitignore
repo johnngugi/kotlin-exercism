@@ -1,0 +1,7 @@
+*/.exercism
+*/.gradle
+*/.idea
+*/out
+gradle
+*/.keep
+*/build
