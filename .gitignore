@@ -3,5 +3,5 @@
 */.idea
 */out
 gradle
-*/.keep
+*/*.keep
 */build
